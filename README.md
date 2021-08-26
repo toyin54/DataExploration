@@ -1,4 +1,16 @@
-# DataExploration
+# Data Exploration Using SQL
+
+This repository is YOU will find projects utilizng SQL and SQL like technologies. In general i want to show my familarity with SQL queries
+
+
+##Contents
+
+<ul>
+  <li><b>Covid Query :</b> Utilizing the Covid Death And Vccine Data and running some exploritory Data Analysis and asking a few Questions</li>
+ 
+</ul>
+
+##Covid Query 
 Data Exploration of a Covid Dataset in SQL
 
 In this script I query a Covid 19 dataset, I was able to join the Infections and Vaccinations dataset highlighting information from different countries and cleaning the data into a presentable format.
