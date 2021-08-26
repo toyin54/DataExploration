@@ -18,6 +18,6 @@ In this script I query a Covid 19 dataset, I was able to join the Infections and
 
 
 
-# Data C.ea ing
+# Data Cleaning
 <b>Data Cleaning in SQL</b>
 In this proejct with dsiplay my skill altering tables , removing duplicated data , string parsing and using CTE's in SQL
