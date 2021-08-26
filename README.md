@@ -3,7 +3,7 @@
 This repository is you will find projects utilizing SQL and SQL-like technologies. In general, i want to show my familiarity with SQL queries
 
 
-##Contents
+#Contents
 
 <ul>
   <li><b>Covid Query :</b> Utilizing the Covid Death And Vccine Data and running some exploritory Data Analysis and asking a few Questions</li>
