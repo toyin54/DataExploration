@@ -6,7 +6,7 @@ This repository is you will find projects utilizing SQL and SQL-like technologie
 ## Contents
 
 <ul>
-  <li><b>Covid Query :</b> Utilizing the Covid Death And Vccine Data and running some exploritory Data Analysis and asking a few Questions</li>
+  <li><b>Covid Query :</b> Utilizing the Covid Death And Vaccine Data and running some exploritory Data Analysis and asking a few Questions</li>
   <li><b>Data Cleaning :</b> I clean a hosuing dataset</li>
  
 </ul>
